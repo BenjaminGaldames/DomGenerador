@@ -1,4 +1,4 @@
-### Benjamin Galdames ###2
+### Benjamin Galdames ###
 
 V: 1.0.3
 
